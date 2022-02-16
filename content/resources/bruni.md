@@ -2,8 +2,13 @@
 content_type: resource
 description: Slide presentation of a student's final project. Authored by Sylvain
   Bruni.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-422-human-supervisory-control-of-automated-systems-spring-2004/94a0294473be1eb0185f5fbbbd489d57_bruni.pdf
+file: /media/courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/94a0294473be1eb0185f5fbbbd489d57_bruni.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: bruni.pdf
 uid: 94a02944-73be-1eb0-185f-5fbbbd489d57

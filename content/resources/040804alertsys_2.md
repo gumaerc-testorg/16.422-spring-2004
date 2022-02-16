@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Slides for lecture presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-422-human-supervisory-control-of-automated-systems-spring-2004/11a97be37364b7e5c40aca772c8cc4b8_040804alertsys_2.pdf
+file: /media/courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/11a97be37364b7e5c40aca772c8cc4b8_040804alertsys_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 040804alertsys_2.pdf
 uid: 11a97be3-7364-b7e5-c40a-ca772c8cc4b8

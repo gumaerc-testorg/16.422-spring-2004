@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-422-human-supervisory-control-of-automated-systems-spring-2004/d0149206ae3c24b3040d61fccd0af8d7_cumm_guer_ctwoct.pdf
+file: /media/courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/d0149206ae3c24b3040d61fccd0af8d7_cumm_guer_ctwoct.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: cumm_guer_ctwoct.pdf
 uid: d0149206-ae3c-24b3-040d-61fccd0af8d7
