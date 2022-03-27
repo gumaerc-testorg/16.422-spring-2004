@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b56b7972-b53c-2760-2799-197f9a2f1feb
 resourcetype: Document
 title: 031104nadecision.pdf
 uid: 9726f1a7-6058-da2f-d799-7e740241bdf3

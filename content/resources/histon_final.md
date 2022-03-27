@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 39f57b79-6ddd-d661-879a-efa5e272b80b
 resourcetype: Document
 title: histon_final.pdf
 uid: 327e6c89-ee15-a279-7c6a-2af336030462

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b56b7972-b53c-2760-2799-197f9a2f1feb
 resourcetype: Document
 title: 040804alertsys_1.pdf
 uid: 8d934ba6-6f80-b2ca-1f6f-82cb0ee3e4bf

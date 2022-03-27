@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b56b7972-b53c-2760-2799-197f9a2f1feb
 resourcetype: Document
 title: 030404signdetect.pdf
 uid: 427cda01-af03-d781-cd89-1b5e0499bd82

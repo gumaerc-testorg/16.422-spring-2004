@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 39f57b79-6ddd-d661-879a-efa5e272b80b
 resourcetype: Document
 title: a320_strasbourg.pdf
 uid: 97f5ada6-4b2c-ae83-be01-a7c5a2d531f8

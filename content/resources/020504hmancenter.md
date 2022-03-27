@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b56b7972-b53c-2760-2799-197f9a2f1feb
 resourcetype: Document
 title: 020504hmancenter.pdf
 uid: 6cb73391-272f-cbf5-37e5-0790c002d186

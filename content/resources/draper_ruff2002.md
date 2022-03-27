@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cbf6635e-9076-34bc-3f1b-870b97f2b00b
 resourcetype: Document
 title: draper_ruff2002.pdf
 uid: 366e1c74-8a1a-f004-11d6-82da7651e1c2

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cbf6635e-9076-34bc-3f1b-870b97f2b00b
 resourcetype: Document
 title: cumm_guer_ctwoct.pdf
 uid: d0149206-ae3c-24b3-040d-61fccd0af8d7

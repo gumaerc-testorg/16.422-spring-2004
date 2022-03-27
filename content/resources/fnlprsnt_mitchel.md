@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 39f57b79-6ddd-d661-879a-efa5e272b80b
 resourcetype: Document
 title: fnlprsnt_mitchel.pdf
 uid: 7cc4091d-e9f1-2d44-6a3c-521303659601

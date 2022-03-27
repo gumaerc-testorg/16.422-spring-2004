@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cbf6635e-9076-34bc-3f1b-870b97f2b00b
 resourcetype: Document
 title: interfac.pdf
 uid: 8d7eb9b4-6a49-ebe5-66a5-2a623b4cf786

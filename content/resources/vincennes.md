@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 39f57b79-6ddd-d661-879a-efa5e272b80b
 resourcetype: Document
 title: vincennes.pdf
 uid: 476a719f-ba01-a773-73ad-f56f436391f4
