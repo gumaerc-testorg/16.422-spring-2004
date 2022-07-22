@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 39f57b79-6ddd-d661-879a-efa5e272b80b
 ---
@@ -39,7 +43,7 @@ Sophie Adenot
 Carl Nehme
 {{< tdclose >}}
 {{< tdopen >}}
-A320 Strasbourg 1992 Accident Analysis ([PDF]({{< baseurl >}}/resources/a320_strasbourg))
+A320 Strasbourg 1992 Accident Analysis ({{% resource_link 97f5ada6-4b2c-ae83-be01-a7c5a2d531f8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +63,7 @@ Paul Mitchell
 Sylvain Bruni
 {{< tdclose >}}
 {{< tdopen >}}
-American Airlines Flight 965 Accident Report Cali, Colombia ([PDF]({{< baseurl >}}/resources/aa965_cali)) (Courtesy of Paul Mitchell and Sylvain Bruni. Used with permission.)
+American Airlines Flight 965 Accident Report Cali, Colombia ({{% resource_link f8b84345-5362-1341-2a8f-da2bbf87caa7 "PDF" %}}) (Courtesy of Paul Mitchell and Sylvain Bruni. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +73,7 @@ Luca Bertuccelli
 Seung Chung
 {{< tdclose >}}
 {{< tdopen >}}
-China Airlines CI676 Nagoya Incident ([PDF]({{< baseurl >}}/resources/china)) (Courtesy of Luca Bertucelli and Seung Hwa Chung. Used with permission.)
+China Airlines CI676 Nagoya Incident ({{% resource_link df7d4497-730e-f179-a92d-84c0f8781d7f "PDF" %}}) (Courtesy of Luca Bertucelli and Seung Hwa Chung. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +84,7 @@ Dan Morales
 Mike Oliver
 {{< tdclose >}}
 {{< tdopen >}}
-USS Vincennes Incident ([PDF]({{< baseurl >}}/resources/vincennes)) (Courtesy of Daniel Craig, Daniel Morales and Michael Oliver. Used with permission.)
+USS Vincennes Incident ({{% resource_link 476a719f-ba01-a773-73ad-f56f436391f4 "PDF" %}}) (Courtesy of Daniel Craig, Daniel Morales and Michael Oliver. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +112,7 @@ FINAL PRESENTATIONS
 Paul Mitchell
 {{< tdclose >}}
 {{< tdopen >}}
-Measuring Human Performance: Maintaining Constant Relative Position to a Lead Vehicle in a Simulation ([PDF]({{< baseurl >}}/resources/fnlprsnt_mitchel)) (Courtesy of Paul Mitchell. Used with permission.)
+Measuring Human Performance: Maintaining Constant Relative Position to a Lead Vehicle in a Simulation ({{% resource_link 7cc4091d-e9f1-2d44-6a3c-521303659601 "PDF" %}}) (Courtesy of Paul Mitchell. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +121,7 @@ Measuring Human Performance: Maintaining Constant Relative Position to a Lead Ve
 Sylvain Bruni
 {{< tdclose >}}
 {{< tdopen >}}
-The Role of Instant Messaging on Task Performance and Level of Arousal ([PDF]({{< baseurl >}}/resources/bruni)) (Courtesy of Sylvain Bruni. Used with permission.)
+The Role of Instant Messaging on Task Performance and Level of Arousal ({{% resource_link 94a02944-73be-1eb0-185f-5fbbbd489d57 "PDF" %}}) (Courtesy of Sylvain Bruni. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +130,7 @@ The Role of Instant Messaging on Task Performance and Level of Arousal ([PDF]({{
 Luca F. Bertuccelli
 {{< tdclose >}}
 {{< tdopen >}}
-Missile Supervisory Control Study Patriot ([PDF]({{< baseurl >}}/resources/patriotpresent2)) (Courtesy of Luca Bertucelli. Used with permission.)
+Missile Supervisory Control Study Patriot ({{% resource_link 27c5a277-dd2c-80b4-554e-c5e750a8840a "PDF" %}}) (Courtesy of Luca Bertucelli. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +139,7 @@ Missile Supervisory Control Study Patriot ([PDF]({{< baseurl >}}/resources/patri
 Dan Morales
 {{< tdclose >}}
 {{< tdopen >}}
-The Integration of Unmanned Aerial Vehicles (UAVs) in Offensive Combat Situations ([PDF]({{< baseurl >}}/resources/noname)) (Courtesy of Daniel Morales (2nd Lt. USAF). Used with permission.)
+The Integration of Unmanned Aerial Vehicles (UAVs) in Offensive Combat Situations ({{% resource_link f9dbb5b0-3b2e-76a0-82ae-3a58bd7e7783 "PDF" %}}) (Courtesy of Daniel Morales (2nd Lt. USAF). Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +148,7 @@ The Integration of Unmanned Aerial Vehicles (UAVs) in Offensive Combat Situation
 Jonathan Histon
 {{< tdclose >}}
 {{< tdopen >}}
-Standard Flow Abstractions as Mechanisms for Reducing ATC Complexity ([PDF]({{< baseurl >}}/resources/histon_final)) (Courtesy of Jonathan Histon (Research Assistant, PhD Candidate). Used with permission.)
+Standard Flow Abstractions as Mechanisms for Reducing ATC Complexity ({{% resource_link 327e6c89-ee15-a279-7c6a-2af336030462 "PDF" %}}) (Courtesy of Jonathan Histon (Research Assistant, PhD Candidate). Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +157,7 @@ Standard Flow Abstractions as Mechanisms for Reducing ATC Complexity ([PDF]({{< 
 Mike Oliver
 {{< tdclose >}}
 {{< tdopen >}}
-The Effects of Display Type on Operator Decisions and Confidence ([PDF]({{< baseurl >}}/resources/fpre_mike_oliver)) (Courtesy of Michael Oliver. Used with permission.)
+The Effects of Display Type on Operator Decisions and Confidence ({{% resource_link 2dcb6fca-9a59-4203-c00a-0eaeb53f9968 "PDF" %}}) (Courtesy of Michael Oliver. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: cbf6635e-9076-34bc-3f1b-870b97f2b00b
 ---
@@ -430,4 +434,4 @@ Additional Resources
 
 Draper, M.H. and H.A. Ruff. "Multi-sensory displays and visualization techniques supporting the control of unmanned air vehicles." _IEEE International Conference on Robotics and Automation_, San Francisco, California, 2000.
 
-Federal Aviation Administration. "The interfaces between flightcrews and modern flight deck systems." _Report of the FAA Human Factors Team_, June 18, 1996. ([PDF - 1.0 MB]({{< baseurl >}}/resources/interfac))
+Federal Aviation Administration. "The interfaces between flightcrews and modern flight deck systems." _Report of the FAA Human Factors Team_, June 18, 1996. ({{% resource_link 8d7eb9b4-6a49-ebe5-66a5-2a623b4cf786 "PDF - 1.0 MB" %}})
