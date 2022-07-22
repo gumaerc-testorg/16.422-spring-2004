@@ -6,6 +6,7 @@ file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: histon_final.pdf
 uid: 327e6c89-ee15-a279-7c6a-2af336030462
 ---
 Slide presentation of a student's final project. Authored by Jonathan Histon.
-

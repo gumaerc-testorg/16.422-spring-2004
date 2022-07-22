@@ -5,6 +5,7 @@ file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 050404nucprocont.pdf
 uid: 8207f8bb-f051-0ad4-e341-717c819726f6
 ---
 Slides for lecture presentation.
-

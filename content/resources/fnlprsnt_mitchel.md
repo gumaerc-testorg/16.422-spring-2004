@@ -5,6 +5,7 @@ file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fnlprsnt_mitchel.pdf
 uid: 7cc4091d-e9f1-2d44-6a3c-521303659601
 ---
 Slide presentation of a student's final project. Authored by Paul Mitchell.
-

@@ -5,6 +5,7 @@ file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: interfac.pdf
 uid: 8d7eb9b4-6a49-ebe5-66a5-2a623b4cf786
 ---
 Report of the FAA Human Factors Team, June 18, 1996.
-

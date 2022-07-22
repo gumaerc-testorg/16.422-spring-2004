@@ -6,6 +6,7 @@ file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: patriotpresent2.pdf
 uid: 27c5a277-dd2c-80b4-554e-c5e750a8840a
 ---
 Slide presentation of a student's final project. Authored by Luca F. Bertucelli.
-

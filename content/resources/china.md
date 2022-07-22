@@ -6,6 +6,7 @@ file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: china.pdf
 uid: df7d4497-730e-f179-a92d-84c0f8781d7f
 ---
 Slides for student presentation. Case study authored by Luca Bertucelli and Sung Cheung.
-

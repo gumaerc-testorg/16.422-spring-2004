@@ -6,6 +6,7 @@ file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: royal_majesty.pdf
 uid: c011b71a-6b4a-bbee-39a0-7447048ca0be
 ---
 Slides for student presentation. This case study was authored by Jonathan Histon and Ada Lim.
-
