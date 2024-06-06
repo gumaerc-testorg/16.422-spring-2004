@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/d0149206ae3c24b3040d61fccd0af8d7_cumm_guer_ctwoct.pdf
+file_size: 148375
 file_type: application/pdf
 learning_resource_types:
 - Readings

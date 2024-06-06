@@ -3,6 +3,7 @@ content_type: resource
 description: 'Slides for lecture presentation. Guest lecturer: Brian C. Williams,
   CSAIL, MIT Department of Aeronautics and Astronautics.'
 file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/8bebba936cc780586c1ce69332fa1a7e_041504_unmanned.pdf
+file_size: 1334467
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
