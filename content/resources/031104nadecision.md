@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for lecture presentation.
 file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/9726f1a76058da2fd7997e740241bdf3_031104nadecision.pdf
+file_size: 300115
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
