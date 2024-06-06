@@ -3,6 +3,7 @@ content_type: resource
 description: Slides for student presentation. This case study was authored by Paul
   Mitchell and Sylvain Bruni.
 file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/f8b84345536213412a8fda2bbf87caa7_aa965_cali.pdf
+file_size: 345424
 file_type: application/pdf
 learning_resource_types:
 - Projects
