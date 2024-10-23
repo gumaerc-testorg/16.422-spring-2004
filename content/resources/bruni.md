@@ -2,7 +2,7 @@
 content_type: resource
 description: Slide presentation of a student's final project. Authored by Sylvain
   Bruni.
-file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/94a0294473be1eb0185f5fbbbd489d57_bruni.pdf
+file: /ol-ocw-studio-app/courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/94a0294473be1eb0185f5fbbbd489d57_bruni.pdf
 file_size: 830536
 file_type: application/pdf
 learning_resource_types:

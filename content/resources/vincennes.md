@@ -2,7 +2,7 @@
 content_type: resource
 description: Slides for student presentation. This case study was authored by Dan
   Craig, Dan Morales, and Mike Oliver.
-file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/476a719fba01a77373adf56f436391f4_vincennes.pdf
+file: /ol-ocw-studio-app/courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/476a719fba01a77373adf56f436391f4_vincennes.pdf
 file_size: 471543
 file_type: application/pdf
 learning_resource_types:
