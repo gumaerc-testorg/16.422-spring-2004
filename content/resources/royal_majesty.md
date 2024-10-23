@@ -2,7 +2,7 @@
 content_type: resource
 description: Slides for student presentation. This case study was authored by Jonathan
   Histon and Ada Lim.
-file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/c011b71a6b4abbee39a07447048ca0be_royal_majesty.pdf
+file: /ol-ocw-studio-app/courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/c011b71a6b4abbee39a07447048ca0be_royal_majesty.pdf
 file_size: 1676038
 file_type: application/pdf
 learning_resource_types:
