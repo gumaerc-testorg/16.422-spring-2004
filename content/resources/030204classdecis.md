@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for lecture presentation.
-file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/1e2d571dad4b0bcdc9452d433400da21_030204classdecis.pdf
+file: /ol-ocw-studio-app/courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/1e2d571dad4b0bcdc9452d433400da21_030204classdecis.pdf
 file_size: 247095
 file_type: application/pdf
 learning_resource_types:
