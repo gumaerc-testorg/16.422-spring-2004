@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/ae31ebc69fa76de95abcb7323c148265_kaliardosphdthes.pdf
+file: /ol-ocw-studio-app/courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/ae31ebc69fa76de95abcb7323c148265_kaliardosphdthes.pdf
 file_size: 1561401
 file_type: application/pdf
 learning_resource_types:
